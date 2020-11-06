@@ -1,5 +1,5 @@
-def introduction(name = 'Sam')
-  puts "Hi, my name is #{name}."
+def introduction(name = 'Sam', language = 'computer')
+  puts "Hi, my name is #{name}, and I am learning to program in #{language}."
 end
 
 introduction

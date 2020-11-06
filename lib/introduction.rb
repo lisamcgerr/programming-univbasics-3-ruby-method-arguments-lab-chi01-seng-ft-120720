@@ -1,4 +1,4 @@
-def introduction(name = 'Sam', language = 'computer')
+def introduction(name = 'Sam', language = 'computer science')
   puts "Hi, my name is #{name}, and I am learning to program in #{language}."
 end
 

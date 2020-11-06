@@ -1,8 +1,8 @@
-def introduction(name)
+def introduction(name = 'Sam')
   puts "Hi, my name is #{name}."
 end
 
-introduction("Lisa")
+introduction
 
 
 
